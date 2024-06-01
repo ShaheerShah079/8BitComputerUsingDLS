@@ -10,7 +10,7 @@
     https://www.mediafire.com/file/fn5zp57jdkwfjhp/Tekra_-_Digital_Logic_Sim_1.0.2.zip/file
 
   <ol>
-    <li>
+    <li> Download by click or The Red Marker
       
   ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/f36f7597-a5b4-42c4-8f6f-a14d7b411f7d)
     </li>
