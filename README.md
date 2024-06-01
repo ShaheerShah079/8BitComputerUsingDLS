@@ -129,7 +129,7 @@ Close the Digital Logic Simulator if it is running.Reopen the Digital Logic Sim.
 <hr>
 If you need any further assistance, feel free to reach out for support.
 
-To learn more about how to use Digital Logic Sim, please visit the link below.
+To learn more about how to use Digital Logic Sim, please visit the above Youtube Video.
 <a href="https://youtu.be/ZVQ8MXFryEc?si=9a0rowjOk1Zs-PB_">Beginning Digital Logic Sim | Tutorial #1 By Lime Inc</a>
 
 
