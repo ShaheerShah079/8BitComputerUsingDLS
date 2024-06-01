@@ -26,12 +26,12 @@ A 256x8-bit memory unit used for storing data during program execution.
 
 <h3>Features</h3>
 <ol>
-<li>Instruction Execution: Execute instructions stored in the instruction RAM, performing arithmetic, logic, and data manipulation operations.
-<li>Register Operations: Load data into registers, perform operations on register contents, and store results back into registers.
-<li>Flag Management: Monitor and manage flags based on ALU operation outcomes.
-<li>Jump Instructions: Implement conditional and unconditional jumps to alter program flow based on specified conditions.
-<li>Data Memory Access: Read from and write to data memory during program execution.
-
+<li>Instruction Execution: Execute instructions stored in the instruction RAM, performing arithmetic, logic, and data manipulation operations.</li>
+<li>Register Operations: Load data into registers, perform operations on register contents, and store results back into registers.</li>
+<li>Flag Management: Monitor and manage flags based on ALU operation outcomes.</li>
+<li>Jump Instructions: Implement conditional and unconditional jumps to alter program flow based on specified conditions.</li>
+<li>Data Memory Access: Read from and write to data memory during program execution.</li>
+</ol>
 <h2>Digital Logic Simulator Setup Instructions</h2>
 <p>Welcome to the Digital Logic Simulator setup guide. Follow the steps below to download, install, and set up the simulator, and then load my project.</p>
 
