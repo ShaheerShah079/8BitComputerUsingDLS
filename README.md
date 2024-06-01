@@ -3,7 +3,7 @@
 This simulator provide functionality of an 8-bit computer system, complete with registers, an Arithmetic Logic Unit (ALU), flags, instruction RAM, and data RAM jumps instructions, 7-segment display simulation, flags for the result of ALU, and more..
 
 <h3>Overview</h3>
-This project simulates the operation of an 8-bit computer, allowing users to understand and experiment with the fundamentals of computer architecture, Understanding of Digital Logic Gates and Concept of MicroProcessor. Key components of the simulated computer include:
+Experiment with the fundamentals of computer architecture, Understanding of Digital Logic Gates and further use the Concept of MicroProcessor. Key components of the simulated computer include:
 
 <h5>8-Bit Register:</h5> 
 
@@ -26,42 +26,12 @@ A 256x16-bit memory unit containing instructions for the computer to execute.
 A 256x8-bit memory unit used for storing data during program execution.
 
 <h3>Features</h3>
-
-Instruction Execution: Execute instructions stored in the instruction RAM, performing arithmetic, logic, and data manipulation operations.
-Register Operations: Load data into registers, perform operations on register contents, and store results back into registers.
-Flag Management: Monitor and manage flags based on ALU operation outcomes.
-Jump Instructions: Implement conditional and unconditional jumps to alter program flow based on specified conditions.
-Data Memory Access: Read from and write to data memory during program execution.
-Interactive Interface: Interact with the simulated computer through a user-friendly command-line interface.
-Getting Started
-To get started with the 8-Bit Computer Simulator, follow these steps:
-
-Clone this repository to your local machine.
-Compile and run the simulator using your preferred programming language or runtime environment.
-Experiment with different instructions, data values, and program structures to explore the capabilities of the simulated computer8-Bit Computer Simulator
-Welcome to the 8-Bit Computer Simulator project! This simulator aims to replicate the functionality of an 8-bit computer system, complete with registers, an Arithmetic Logic Unit (ALU), flags, instruction RAM, and data RAM.
-
-Overview
-This project simulates the operation of an 8-bit computer, allowing users to understand and experiment with the fundamentals of computer architecture and operation. Key components of the simulated computer include:
-
-8-Bit Register: Stores 8 bits of data, serving as the primary storage unit within the computer.
-Arithmetic Logic Unit (ALU): Performs arithmetic and logical operations on binary data, including addition, subtraction, AND, OR, XOR, and more.
-Flags: Represent various conditions resulting from ALU operations, such as zero, carry, overflow, and sign flags.
-Instruction RAM: A 256x16-bit memory unit containing instructions for the computer to execute.
-Data RAM: A 256x8-bit memory unit used for storing data during program execution.
-Features
-Instruction Execution: Execute instructions stored in the instruction RAM, performing arithmetic, logic, and data manipulation operations.
-Register Operations: Load data into registers, perform operations on register contents, and store results back into registers.
-Flag Management: Monitor and manage flags based on ALU operation outcomes.
-Jump Instructions: Implement conditional and unconditional jumps to alter program flow based on specified conditions.
-Data Memory Access: Read from and write to data memory during program execution.
-Interactive Interface: Interact with the simulated computer through a user-friendly command-line interface.
-Getting Started
-To get started with the 8-Bit Computer Simulator, follow these steps:
-
-Clone this repository to your local machine.
-Compile and run the simulator using your preferred programming language or runtime environment.
-Experiment with different instructions, data values, and program structures to explore the capabilities of the simulated computer
+<ol>
+<li>Instruction Execution: Execute instructions stored in the instruction RAM, performing arithmetic, logic, and data manipulation operations.
+<li>Register Operations: Load data into registers, perform operations on register contents, and store results back into registers.
+<li>Flag Management: Monitor and manage flags based on ALU operation outcomes.
+<li>Jump Instructions: Implement conditional and unconditional jumps to alter program flow based on specified conditions.
+<li>Data Memory Access: Read from and write to data memory during program execution.
 
 <h2>Digital Logic Simulator Setup Instructions</h2>
 <p>Welcome to the Digital Logic Simulator setup guide. Follow the steps below to download, install, and set up the simulator, and then load my project.</p>
