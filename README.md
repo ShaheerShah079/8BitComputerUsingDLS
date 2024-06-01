@@ -9,7 +9,7 @@
 
     https://www.mediafire.com/file/fn5zp57jdkwfjhp/Tekra_-_Digital_Logic_Sim_1.0.2.zip/file
 
-    ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/5797e5b6-38a3-4dcb-a72c-3265553065b1)
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/5797e5b6-38a3-4dcb-a72c-3265553065b1)
 
 
   </li>
