@@ -3,8 +3,9 @@
 
 <ol>
   <li>Download the Digital Logic Simulator 
+    
     Click the following link to download the Digital Logic Simulator: Download Digital Logic Sim 1.0.2.
-  Save the Tekra_-_Digital_Logic_Sim_1.0.2.zip file to a location on your computer  
+    Save the Tekra_-_Digital_Logic_Sim_1.0.2.zip file to a location on your computer  
   </li>
 
 Step 2: Unzip the Downloaded File
