@@ -11,17 +11,20 @@
 
   <ol>
     <li> Download by click on The Red Mark.
-      
+    
   ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/f36f7597-a5b4-42c4-8f6f-a14d7b411f7d)
     </li>
     <li> Then this webpage will open. Be patient; the download will start shortly.
-    ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/27a67d75-9da8-450e-9105-386ede986085)
+  
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/27a67d75-9da8-450e-9105-386ede986085)
     </li>
     <li> After this, your computer will prompt you to open the downloaded file. You can select the destination folder and change the file name if desired.
-    ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/d8f67ea0-1dc0-4bc3-816a-60251d7c8fe0)
+   
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/d8f67ea0-1dc0-4bc3-816a-60251d7c8fe0)
     </li>
     <li> Downloading has started. Please wait for the software to download.
-    ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/6b6e2896-deee-43eb-801f-3b501a394e89)
+  
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/6b6e2896-deee-43eb-801f-3b501a394e89)
     </li>
   </ol>
   </li>
