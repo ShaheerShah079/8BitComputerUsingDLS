@@ -6,7 +6,7 @@ Experiment with the fundamentals of computer architecture, Understanding of Digi
 
 <h5>8-Bit Register:</h5> 
 
-Stores 8 bits of data, serving as the primary storage unit within the computer.
+Provide 4 *Bits Register to store data, serving as the primary storage unit within the computer.
 
 <h5>Arithmetic Logic Unit (ALU):</h5> 
 
