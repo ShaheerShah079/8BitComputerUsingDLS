@@ -9,9 +9,10 @@
 
     https://www.mediafire.com/file/fn5zp57jdkwfjhp/Tekra_-_Digital_Logic_Sim_1.0.2.zip/file
 
-  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/5797e5b6-38a3-4dcb-a72c-3265553065b1)
-
-
+  <ol>
+    <li>![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/f36f7597-a5b4-42c4-8f6f-a14d7b411f7d)
+    
+  </ol>
   </li>
 
 Step 2: Unzip the Downloaded File
