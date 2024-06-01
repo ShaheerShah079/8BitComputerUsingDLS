@@ -53,10 +53,22 @@ Right-click the zip file and select "Extract All..." or use your preferred unzip
   </ol>
 </li>
 
-Step 3: Run the Simulator
-Open the extracted folder.
-Locate the Digital Logic Sim.exe file.
-Double-click Digital Logic Sim.exe to run the simulator.
+<li><b>Run the Simulator</b>
+  
+<ol>
+  <li> Open the extracted folder and locate the Digital Logic Sim.exe file.
+    
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/92e89a9b-e8c1-436b-b0b9-f84a38e9dbee)
+  </li>
+  <li> Double-click on Digital Logic Sim.exe to run the simulator. Then, click on the "Run" button.
+  
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/7622b4d3-90f0-4b2e-b620-921848abfc4a)
+  </li>
+  <li>  The software is now open and ready to use.
+  </li>
+</ol>
+</li>
+
 Step 4: Create a New Project
 Once the simulator is open, create a new project:
 Click on "New Project" or go to the File menu and select "New Project".
