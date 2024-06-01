@@ -1,12 +1,10 @@
 <h1>Digital Logic Simulator Setup Instructions</h1>
-<p>Welcome to the Digital Logic Simulator setup guide. Follow the steps below to download, install, and set up the simulator, and then load your project.</p>
+<p>Welcome to the Digital Logic Simulator setup guide. Follow the steps below to download, install, and set up the simulator, and then load my project.</p>
 
 <ol>
-
-  <li>Step 1: 
-  <p>Download the Digital Logic Simulator Click the following link to download the Digital Logic Simulator: Download Digital Logic Sim 1.0.2.
-Save the Tekra_-_Digital_Logic_Sim_1.0.2.zip file to a location on your computer.</p>
-    
+  <li>Download the Digital Logic Simulator 
+    Click the following link to download the Digital Logic Simulator: Download Digital Logic Sim 1.0.2.
+  Save the Tekra_-_Digital_Logic_Sim_1.0.2.zip file to a location on your computer  
   </li>
 
 Step 2: Unzip the Downloaded File
