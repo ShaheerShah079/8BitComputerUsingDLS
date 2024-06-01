@@ -10,7 +10,7 @@ Provide 4 *Bits Register to store data, serving as the primary storage unit with
 
 <h5>Arithmetic Logic Unit (ALU):</h5> 
 
-Performs arithmetic and logical operations on binary data, including addition, subtraction, AND, OR, XOR, and more.
+Performs arithmetic and logical operations on binary data, including addition, subtraction, AND, OR, XOR, Not, Multiplication, Division and more.
 
 <h5>Flags:</h5> 
 
