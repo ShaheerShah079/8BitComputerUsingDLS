@@ -29,7 +29,7 @@
   </ol>
   </li>
 
-<li><b>Extract the Downloaded File<b></b>
+<li><b>Extract the Downloaded File</b>
 Navigate to the location where you saved the Tekra_-_Digital_Logic_Sim_1.0.2.zip file.
 Right-click the zip file and select "Extract All..." or use your preferred unzipping tool to extract the contents.
 </li>
