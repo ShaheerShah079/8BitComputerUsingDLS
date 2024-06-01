@@ -26,9 +26,11 @@
   </ol>
   </li>
 
-Step 2: Unzip the Downloaded File
+<li><b>Extract the Downloaded File<b></b>
 Navigate to the location where you saved the Tekra_-_Digital_Logic_Sim_1.0.2.zip file.
 Right-click the zip file and select "Extract All..." or use your preferred unzipping tool to extract the contents.
+</li>
+
 Step 3: Run the Simulator
 Open the extracted folder.
 Locate the Digital Logic Sim.exe file.
