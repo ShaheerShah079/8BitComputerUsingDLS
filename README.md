@@ -65,14 +65,31 @@ Right-click the zip file and select "Extract All..." or use your preferred unzip
   ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/7622b4d3-90f0-4b2e-b620-921848abfc4a)
   </li>
   <li>  The software is now open and ready to use.
+    
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/80ef9743-fa0d-4fd6-a69c-02e8d0b377f3)
   </li>
 </ol>
 </li>
 
-Step 4: Create a New Project
-Once the simulator is open, create a new project:
-Click on "New Project" or go to the File menu and select "New Project".
-Enter a name for your new project and save it.
+<li><b>Create a New Project</b>
+
+  Once the simulator is open, create a new project.
+  <ol>
+  <li>Click on "New Project" by go to the File menu and select "New Project".
+  
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/58456146-3c33-4cc1-add5-7b96510ba0f9)
+  </li>
+  <li>Enter a name for your new project and Create Project
+  
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/5a7afa50-afe2-4904-9751-18233495f00c)
+  </li>
+  <li>The project has been created, and you can build logic gates within it. They have provided only the AND and NOT gates
+
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/a0ba55ae-05ad-45c0-a55c-0d492a4fc8d2)
+  </li>
+   </ol> 
+</li>
+
 Step 5: Download and Unzip the Project File
 Download the project zip file from the provided link (make sure you have this link ready).
 Unzip the downloaded project file.
