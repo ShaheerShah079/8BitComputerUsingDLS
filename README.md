@@ -1,7 +1,6 @@
 <h1>8-Bit Computer Simulator</h1>
 
-This simulator provide functionality of an 8-bit computer system, complete with registers, an Arithmetic Logic Unit (ALU), flags, instruction RAM, and data RAM jumps instructions, 7-segment display simulation, flags for the result of ALU, and more..
-
+This simulator provide the functionality of an 8-bit computer system, complete with registers, an Arithmetic Logic Unit (ALU), flags, instruction RAM, and data RAM , jumps instructions, 7-segment display simulation, and more.
 <h3>Overview</h3>
 Experiment with the fundamentals of computer architecture, Understanding of Digital Logic Gates and further use the Concept of MicroProcessor. Key components of the simulated computer include:
 
