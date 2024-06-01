@@ -90,27 +90,51 @@ Right-click the zip file and select "Extract All..." or use your preferred unzip
    </ol> 
 </li>
 
-Step 5: Download and Unzip the Project File
-Download the project zip file from the provided link (make sure you have this link ready).
-Unzip the downloaded project file.
-Step 6: Place the Project File in the Correct Directory
-Navigate to the unzipped project folder.
-Copy the entire project folder.
-Paste the folder into the following directory on your computer:
-vbnet
-Copy code
-C:\Users\Personal's PC\AppData\LocalLow\SebastianLague\Digital Logic Sim\V1\Projects
-If you don't see the AppData folder, you might need to enable the option to view hidden files and folders in your File Explorer.
-Step 7: Restart the Simulator
-Close the Digital Logic Simulator if it is running.
-Reopen the Digital Logic Sim.exe file to restart the simulator.
-Step 8: Open the Project File
-In the simulator, go to the File menu and select "Open Project".
-Navigate to the directory where you placed the project file:
-vbnet
-Copy code
-C:\Users\Personal's PC\AppData\LocalLow\SebastianLague\Digital Logic Sim\V1\Projects
-Select your project and open it.
-You should now have your project loaded in the Digital Logic Simulator. Enjoy working on your digital logic designs!
+<li><b>Download and Use My Project File</b>
+  <ol>
+    <li>Download my Project File 8BitComputer.zip from the repository
 
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/4ab6c21d-78bb-4db5-a730-939f7528c577)
+    </li>
+    
+  <li>Extract the file in location below.
+
+    C:\Users\Personal's PC\AppData\LocalLow\SebastianLague\Digital Logic Sim\V1\Projects
+![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/7da7f07a-8fcf-445e-954d-90941f71fe5d)
+  </li>
+  </ol>
+  <i><ul>[Note]:If you don't see the AppData folder, you might need to enable the option to view hidden files and folders in your File Explorer.</ul></i>
+  </li>
+  
+<li><b>Restart the Digital Logic Simulator</b>
+
+Close the Digital Logic Simulator if it is running.Reopen the Digital Logic Sim.exe file to restart the simulator.
+</li>
+<li><b>Open My Project</b>
+  <ol>
+    <li> In the simulator, go to the File menu and select "Load Project".
+      
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/38bea8aa-d13b-45a6-ba4a-6c952a27aa6d)
+    </li>
+    <li>Select My project named 8BitComputer and open it.
+
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/ba50406f-270f-4bb8-a036-1d21d75f8b4e)
+    </li>
+    <li>You should now have project loaded in the Digital Logic Simulator. Enjoy working on digital logic designs!
+    
+  ![image](https://github.com/ShaheerShah079/8BitComputerUsingDLS/assets/145196564/c51908eb-f768-429f-92f8-d7cc9f18ccf8)
+  </li>
+  </ol>
+</ol>
+<hr>
 If you need any further assistance, feel free to reach out for support.
+
+To learn more about how to use Digital Logic Sim, please visit the link below.
+<a href="https://youtu.be/ZVQ8MXFryEc?si=9a0rowjOk1Zs-PB_">Beginning Digital Logic Sim | Tutorial #1 By Lime Inc</a>
+
+
+
+
+
+
+
